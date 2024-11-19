@@ -84,8 +84,8 @@ If you have any questions or suggestions, feel free to reach out:
 
 ### **Preview Screenshot**
 
-You can also include a screenshot of your deployed app interface here for better visibility.  
-Simply save your app image and reference it like this in your README:
+I may also include a screenshot of the deployed app interface here for better visibility. 
+Simply save an image of the app and reference it in the README like this:
 
 ```markdown
 ![App Screenshot]
