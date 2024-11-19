@@ -80,6 +80,7 @@ If you have any questions or suggestions, feel free to reach out:
 [GitHub Profile](https://github.com/DarbinRawal)
 
 --- 
+##Link to the app: "https://crop-recommendation-app-nquaf9jhxfrm2uh76ppkur.streamlit.app/
 
 ### **Preview Screenshot**
 
